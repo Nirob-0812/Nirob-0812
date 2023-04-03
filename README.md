@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://fb.com/nirob0812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirob0812" height="30" width="40" /></a>
 <a href="https://instagram.com/mehedihasannirob0812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehedihasannirob0812" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nirob_2020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nirob_2020" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mhnirob0812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mhnirob0812" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nirob-2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nirob-2020" height="30" width="40" /></a>
 </p>
