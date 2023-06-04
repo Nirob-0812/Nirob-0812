@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python,ML**
 
-- 📫 How to reach me **mehedihasannirobcsediu@gmail.com**
+- 📫 You can DM **mehedihasannirobcsediu@gmail.com**
 
 - ⚡ Hobbies **Travel,Photography**
 
