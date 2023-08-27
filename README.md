@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirob-0812&label=Profile%20views&color=0e75b6&style=flat" alt="nirob-0812" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working at **Inflexionpoint Technologies(BD) LTD. as Intern AI Engineer**
 
 - 🌱 I’m currently learning **ML**
 
