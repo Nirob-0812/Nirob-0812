@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python,ML**
 
-- 📫 You can DM **mehedihasannirobcsediu@gmail.com**
+- 📫 You can explore my portfolo: **https://nirob-0812.github.io/**
 
 - ⚡ Hobbies **Travel,Photography**
 
